@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>GtIDv3</title>
+        <item>
+            <title>3.0.2</title>
+            <pubDate>週五, 11 12月 2020 13:34:13 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EddieHua-GoTrustID/GoTrustIDmacOS/raw/master/GtIDv3.pkg.zip" sparkle:version="2" sparkle:shortVersionString="3.0.2" length="2439253" type="application/octet-stream" sparkle:edSignature="kzIaFYyLoylK7Ilk2g8ijrlJpEdgNmEZLrSaJzvaL4+9UpNLqQe3krDWUilWR47nzZMfnVJ+Lu1u8iGMfqqFDg=="/>
+<!--             <enclosure url="https://download.gotrustid.com/GoTrustIDBusiness/Mac/GtIDv3.pkg.zip" sparkle:version="1" sparkle:shortVersionString="3.0.2" length="3385087" type="application/octet-stream" sparkle:edSignature="kzIaFYyLoylK7Ilk2g8ijrlJpEdgNmEZLrSaJzvaL4+9UpNLqQe3krDWUilWR47nzZMfnVJ+Lu1u8iGMfqqFDg=="/> -->
+        </item>
+    </channel>
+</rss>
