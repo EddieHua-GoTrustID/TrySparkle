@@ -6,7 +6,7 @@
             <title>3.0.2</title>
             <pubDate>週五, 11 12月 2020 13:34:13 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EddieHua-GoTrustID/TrySparkle/blob/main/GtIDv3.pkg.zip?raw=true" sparkle:version="2" sparkle:shortVersionString="3.0.2" length="2439187" type="application/octet-stream" sparkle:edSignature="kzIaFYyLoylK7Ilk2g8ijrlJpEdgNmEZLrSaJzvaL4+9UpNLqQe3krDWUilWR47nzZMfnVJ+Lu1u8iGMfqqFDg=="/>
+            <enclosure url="https://github.com/EddieHua-GoTrustID/TrySparkle/blob/main/GtIDv3.pkg.zip?raw=true" sparkle:version="2" sparkle:shortVersionString="3.0.2" length="2439187" type="application/octet-stream" sparkle:edSignature="4w2iCyDymxeZ6v7QUEfyCnNtIdHK9gFI+oyfyiGh6Dl4YB5FQKrVOmB6upGd8+shuwyMyTmO/2O+bvWikKVDCQ=="/>
 <!--             <enclosure url="https://download.gotrustid.com/GoTrustIDBusiness/Mac/GtIDv3.pkg.zip" sparkle:version="1" sparkle:shortVersionString="3.0.2" length="3385087" type="application/octet-stream" sparkle:edSignature="kzIaFYyLoylK7Ilk2g8ijrlJpEdgNmEZLrSaJzvaL4+9UpNLqQe3krDWUilWR47nzZMfnVJ+Lu1u8iGMfqqFDg=="/> -->
         </item>
     </channel>
